@@ -1,6 +1,6 @@
 {
   "name": "tfs",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "description": "NodeJS wrapper for TFS command line tool.",
   "main": "lib/tfs.js",
   "bin": {
