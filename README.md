@@ -3,8 +3,8 @@
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![npm](https://img.shields.io/npm/v/tfs.svg?style=flat-square)](https://www.npmjs.com/package/tfs)
 [![Build Status](https://img.shields.io/travis/ivangabriele/tfs.svg?style=flat-square)](https://travis-ci.org/ivangabriele/tfs)
-[![dependencies Status](https://david-dm.org/ivangabriele/tfs/status.svg)](https://david-dm.org/ivangabriele/tfs)
-[![devDependencies Status](https://david-dm.org/ivangabriele/tfs/dev-status.svg)](https://david-dm.org/ivangabriele/tfs?type=dev)
+[![dependencies Status](https://david-dm.org/ivangabriele/tfs/status.svg?style=flat-square)](https://david-dm.org/ivangabriele/tfs)
+[![devDependencies Status](https://david-dm.org/ivangabriele/tfs/dev-status.svg?style=flat-square)](https://david-dm.org/ivangabriele/tfs?type=dev)
 
 **NodeJS wrapper for [Team Foundation Source Control CLI](https://msdn.microsoft.com/en-us/library/cc31bk2e(vs.80).aspx).**
 
