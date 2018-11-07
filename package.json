@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node ./bin/tfs",
-    "test": "grunt test"
+    "test": "mocha"
   },
   "dependencies": {
     "chalk": "^2.4.1",
