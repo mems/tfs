@@ -12,11 +12,11 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "chalk": "^1.1.1",
-    "commander": "^2.9.0"
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
   },
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "mocha": "^5.2.0"
   },
   "repository": {
     "type": "git",
