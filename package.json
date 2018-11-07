@@ -1,7 +1,8 @@
 {
   "name": "tfs",
   "version": "1.5.0",
-  "description": "NodeJS wrapper for TFS command line tool.",
+  "description": "NodeJS wrapper for Team Foundation Source Control CLI.",
+  "license": "MIT",
   "main": "lib/tfs.js",
   "bin": {
     "tfs": "./bin/tfs"
@@ -9,6 +10,13 @@
   "scripts": {
     "start": "node ./bin/tfs",
     "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
   },
   "repository": {
     "type": "git",
@@ -22,16 +30,8 @@
     "wrapper"
   ],
   "author": "Ivan Gabriele",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivangabriele/tfs/issues"
   },
-  "homepage": "https://github.com/ivangabriele/tfs#readme",
-  "dependencies": {
-    "chalk": "^1.1.1",
-    "commander": "^2.9.0"
-  },
-  "devDependencies": {
-    "mocha": "^3.2.0"
-  }
+  "homepage": "https://github.com/ivangabriele/tfs#readme"
 }
