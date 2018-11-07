@@ -5,7 +5,7 @@
 [![dependencies Status](https://david-dm.org/ivangabriele/tfs/status.svg)](https://david-dm.org/ivangabriele/tfs)
 [![devDependencies Status](https://david-dm.org/ivangabriele/tfs/dev-status.svg)](https://david-dm.org/ivangabriele/tfs?type=dev)
 
-NodeJS wrapper for Team Foundation Source Control CLI.
+NodeJS wrapper for [Team Foundation Source Control CLI](https://msdn.microsoft.com/en-us/library/cc31bk2e(vs.80).aspx).
 
 ---
 
